@@ -50,9 +50,9 @@ backend/
 ## 📥 Sample Request
 ```json
 {
-  "name": "Likhitha",
-  "email": "likhitha@gmail.com",
-  "phone": "9876543210"
+  "name": "LIKHITHAC",
+  "email": "likhithac27@gmail.com",
+  "phone": "6360885055"
 }
 <img width="812" height="67" alt="Screenshot 2026-01-06 190942" src="https://github.com/user-attachments/assets/af60e926-34e9-4c24-9b1d-1bae0238dbe2" />
 <img width="533" height="156" alt="Screenshot 2026-01-06 204242" src="https://github.com/user-attachments/assets/a7437af3-2e28-4b7e-9dd6-427b82fe5e23" />
