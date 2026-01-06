@@ -51,7 +51,7 @@ backend/
 ```json
 {
   "name": "LIKHITHAC",
-  "email": "likhithac27@gmail.com",
+  "email": "reddylikhitha828@gmail.com",
   "phone": "6360885055"
 }
 <img width="812" height="67" alt="Screenshot 2026-01-06 190942" src="https://github.com/user-attachments/assets/af60e926-34e9-4c24-9b1d-1bae0238dbe2" />
